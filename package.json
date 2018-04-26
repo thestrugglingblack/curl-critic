@@ -1,0 +1,21 @@
+{
+  "name": "curl-critic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd server && rake start ",
+    "install": "cd client && npm install  cd server && bundle install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZuriHunter/curl-critic.git"
+  },
+  "author": "Zuri Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZuriHunter/curl-critic/issues"
+  },
+  "homepage": "https://github.com/ZuriHunter/curl-critic#readme"
+}
