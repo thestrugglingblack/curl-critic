@@ -17,7 +17,7 @@
 
 # Getting Started
 Since I have a love for Ruby but my paycheck is for Javascript I decided to build this project combining the two.  The client side of the application is built in React.js (yay!!) using the Facebook's lovely create-react-app utility and the server is built in Rails (Woohoo!).  To spin up the application do the following:
-- npm install 
-- npm start
+- `npm install`
+- `npm start`
 
 Hopefully it is as simple as it looks but if not you can send me a tweet.
